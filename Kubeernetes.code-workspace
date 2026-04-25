@@ -1,8 +1,7 @@
 {
 	"folders": [
 		{
-			"name": "Kube",
-			"path": "../Kube"
+			"path": "."
 		}
 	],
 	"settings": {}
